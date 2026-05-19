@@ -32,7 +32,7 @@
 ## Integrantes e papéis
 | Nome | Papel (Inovação) | Papel (Back-end) |
 |------|------------------|------------------|
-| ... | Documentação/Validação | API/Banco |
+| Luiz F. | Documentação/Validação | API/Banco |
 | ... | Prototipagem | Front-end (se houver) |
 | ... | ... | ... |
 ## Links úteis
