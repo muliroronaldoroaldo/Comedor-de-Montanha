@@ -42,6 +42,4 @@
 
 
 
-o que o Rhuan fez:
-
-fez os sprites 
+o que o Rhuan fez: fez os sprites 
