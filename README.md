@@ -39,3 +39,9 @@
 - **Kanban (Trello):** [https://trello.com/invite/b/69d4e77dc1ebd488abf45c34/ATTI4b2f9b06793edd07f51bdc0d2e1174924E6BF243/meu-quadro-do-trello]
 - **Protótipo (Figma):** [a preencher]
 - **Repositório:** [https://github.com/LUIZFELIPE1C23/Diegocomedordemontanha.git]
+
+
+
+o que o Rhuan fez:
+
+fez os sprites 
