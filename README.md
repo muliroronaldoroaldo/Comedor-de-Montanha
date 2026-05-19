@@ -42,4 +42,9 @@
 
 
 
-o que o Rhuan fez: fez os sprites 
+o que o Rhuan fez:
+
+fez os sprites
+
+o que o murilo fez:
+amigo de tudo e todos e auxiliador amoroso do rhuan
